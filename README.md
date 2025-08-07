@@ -69,11 +69,17 @@ cd fake-news-detection
 
 ## 📸 UI Preview
 
-![Setup](https://github.com/BinduSundarapu/Fakenews_Detection-/blob/main/SETUP.png?raw=true)
+## Logo
 
-![Deployed App View](https://github.com/BinduSundarapu/Fakenews_Detection-/blob/main/DEPLOYED1.png?raw=true)
+![Logo](https://github.com/BinduSundarapu/Fakenews_Detection-/blob/main/LOGO.png)
 
-![Deployed App View](https://github.com/BinduSundarapu/Fakenews_Detection-/blob/main/DEPLOYED2.png?raw=true)
+## Setup Screenshot
+
+![Setup](https://github.com/BinduSundarapu/Fakenews_Detection-/blob/main/SETUP.png)
+
+## Deployment Preview
+
+![Deployment](https://github.com/BinduSundarapu/Fakenews_Detection-/blob/main/DEPLOYED1.png)
 
 
 ---
