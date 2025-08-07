@@ -2,6 +2,13 @@
 
 A machine learning project that identifies whether a news article is **real** or **fake** using **Natural Language Processing (NLP)** techniques and **Scikit-learn**, with a user-friendly web app built in **Streamlit**.
 
+## 🚨 Problem Statement
+
+With the rise of misinformation on the internet, it has become crucial to develop automated tools to detect and flag fake news articles. This project aims to build a machine learning-based system that classifies news as **real** or **fake** based on its textual content.
+The system uses text preprocessing, feature extraction with TF-IDF, and classification algorithms like Logistic Regression and Naive Bayes to make accurate predictions. A Streamlit-based frontend enables users to interact with the model in real-time.
+
+![Fake News Detection Logo](https://github.com/BinduSundarapu/Fakenews_Detection-/blob/main/LOGO.png?raw=true)
+
 ---
 
 ## 📌 What You’ll Learn
@@ -61,7 +68,13 @@ cd fake-news-detection
 ---
 
 ## 📸 UI Preview
-> _You can add screenshots or a short GIF of the Streamlit app here._
+
+![Setup](https://github.com/BinduSundarapu/Fakenews_Detection-/blob/main/SETUP.png?raw=true)
+
+![Deployed App View](https://github.com/BinduSundarapu/Fakenews_Detection-/blob/main/DEPLOYED1.png?raw=true)
+
+![Deployed App View](https://github.com/BinduSundarapu/Fakenews_Detection-/blob/main/DEPLOYED2.png?raw=true)
+
 
 ---
 
