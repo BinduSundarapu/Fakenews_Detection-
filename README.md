@@ -83,6 +83,13 @@ cd fake-news-detection
 ![Deployment](https://github.com/BinduSundarapu/Fakenews_Detection-/blob/main/DEPLOYED2.png)
 
 
+⚖️ License
+This project is licensed under the MIT License.
+
+🙋‍♀️ Created By
+Bindu Sundarapu 
+
+
 
 ---
 
