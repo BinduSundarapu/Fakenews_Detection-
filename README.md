@@ -69,9 +69,6 @@ cd fake-news-detection
 
 ## 📸 UI Preview
 
-## Logo
-
-![Logo](https://github.com/BinduSundarapu/Fakenews_Detection-/blob/main/LOGO.png)
 
 ## Setup Screenshot
 
@@ -80,6 +77,11 @@ cd fake-news-detection
 ## Deployment Preview
 
 ![Deployment](https://github.com/BinduSundarapu/Fakenews_Detection-/blob/main/DEPLOYED1.png)
+
+## Deployment Preview
+
+![Deployment](https://github.com/BinduSundarapu/Fakenews_Detection-/blob/main/DEPLOYED2.png)
+
 
 
 ---
